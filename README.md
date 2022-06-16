@@ -1,6 +1,6 @@
 ## CrossEngine
 
-A small game engine focused on cross-platform compatibility.
+I just wanted to make my own game engine lol
 
 # Building
 
